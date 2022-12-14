@@ -1,4 +1,4 @@
-<h1>Hi, I'm Romar Desabille</h1>
+<h1 align="center">Hi 👋, I'm Romar Desabille</h1>
 - 🔭 I’m currently working on [My Portfolio](https://romardesabille.vercel.app/)
 
 - 🌱 I’m currently learning **random things**
